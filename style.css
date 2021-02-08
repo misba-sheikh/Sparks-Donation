@@ -3,7 +3,10 @@
    padding: 0px;
    box-sizing: border-box;
 }
-
+.razorpay-embed-btn:hover{
+  border: none;
+   color:black;
+}
   a {
     text-decoration: none;
     transition: all 0.3s ease-in-out;
